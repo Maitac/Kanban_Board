@@ -116,25 +116,4 @@ Realiza cambios en una de las pestañas (ej. añade una tarjeta). Observa cómo 
 
 Haz clic en el botón "Notifications" en la parte superior derecha para ver la lista de notificaciones de cambios recientes y marcarlas como leídas.
 
-📂 Estructura del Proyecto
-.KANBN BOARDFULL-STACK
-├── kanban-backend/                  # Repositorio del Backend (NestJS)
-│   ├── src/                         # Código fuente del backend
-│   ├── .env.example                 # Plantilla para las variables de entorno
-│   ├── package.json                 # Dependencias y scripts del backend
-│   └── README.md                    # Documentación específica del backend (próximamente)
-│
-└── kanban-frontend/                 # Repositorio del Frontend (React/Vite)
-    ├── src/                         # Código fuente del frontend
-    │   ├── auth/                    # Lógica y contexto de autenticación
-    │   ├── components/              # Componentes de UI reutilizables
-    │   ├── pages/                   # Páginas principales de la aplicación
-    │   ├── types/                   # Definiciones de tipos para TypeScript
-    │   ├── App.tsx                  # Componente principal de la aplicación y rutas
-    │   └── index.css                # Estilos globales y personalizados
-    ├── public/                      # Archivos estáticos (ej. Fondo2.png)
-    │   └── Fondo2.png
-    ├── package.json                 # Dependencias y scripts del frontend
-    └── README.md                    # Documentación específica del frontend (próximamente)
-🤝 Contacto
-Si tienes alguna pregunta, sugerencia o encuentras algún problema, no dudes en abrir un issue en este repositorio.
+
